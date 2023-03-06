@@ -4,7 +4,7 @@
 
 - 📫 How to reach me **shivamkr7822@gmail.com**
 
-- ⚡ Fun fact ***i am over thinker***
+- ⚡ Fun fact **i am over thinker**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
