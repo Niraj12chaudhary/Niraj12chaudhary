@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **shivamkr7822@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1LxMWvvmKyjFj__qqOI1nVCDgxm_IkNZb/view?usp=drive_link](https://drive.google.com/file/d/1LxMWvvmKyjFj__qqOI1nVCDgxm_IkNZb/view?usp=drive_link)
+- 📄 Know about my experiences https://drive.google.com/file/d/1PSEz76A0OJO8R2Zzmdh6oMNQWhv8uPTO/view?usp=sharing
 
 - ⚡ Fun fact **i am overthinker.**
 
