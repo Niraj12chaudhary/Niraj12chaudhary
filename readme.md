@@ -1,33 +1,128 @@
-<h1 align="center">Hi 👋, I'm Shivam Kumar Chaudhary</h1>
-<h3 align="center">SDE-1</h3>
+# Shivam Kumar Chaudhary  
+### Backend Systems Engineer | Distributed Systems | Production Architecture
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=niraj12chaudhary&label=Profile%20views&color=0e75b6&style=flat" alt="niraj12chaudhary" /> </p>
+I design and build backend systems that are resilient under load, safe with data, and predictable in failure.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=niraj12chaudhary" alt="niraj12chaudhary" /></a> </p>
+My work focuses on multi-tenant SaaS platforms, asynchronous processing systems, and real-time distributed architectures. I care deeply about correctness, data integrity, and long-term maintainability over quick feature delivery.
 
-- 🌱 I’m currently learning **System Design**
+---
 
-- 💬 Ask me about **Django,Nestjs,Postgres,Docker**
+## Engineering Focus
 
-- 📫 How to reach me **shivamkr7822@gmail.com**
+- Scalable backend services (NestJS, Fastify, Django)
+- Multi-tenant SaaS architecture
+- Asynchronous processing (Redis, BullMQ, Pub/Sub)
+- PostgreSQL schema design & transaction safety
+- Event-driven systems
+- Containerized production environments
 
-- 📄 Know about my experiences https://drive.google.com/file/d/1xPb-rFQVAT14Ylhse8L0eUH2LjzRatft/view?usp=sharing
+---
 
-- ⚡ Fun fact **i am overthinker.**
+## Core Expertise
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shivam-kr-chaudhary/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shivam-kr-chaudhary/" height="30" width="40" /></a>
-<a href="https://instagram.com/nirajchaudhary1724" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nirajchaudhary1724" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/niraj_123chy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="niraj_123chy" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/shivamkr7822" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shivamkr7822" height="30" width="40" /></a>
-</p>
+### Backend Architecture
+- NestJS 10, Fastify
+- Clean modular structure
+- RBAC & multi-tenant isolation
+- JWT auth (access + refresh flow)
+- RESTful APIs with strict validation
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+### Data & Consistency
+- PostgreSQL 16 (ACID, indexing, constraints)
+- Prisma & TypeORM
+- Monetary precision using integer storage
+- DB-level transactional guarantees
+- Soft deletes & audit-friendly schemas
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=niraj12chaudhary&show_icons=true&locale=en&layout=compact" alt="niraj12chaudhary" /></p>
+### Asynchronous & Real-Time Systems
+- Redis 7
+- BullMQ producer-consumer patterns
+- Redis Pub/Sub for cross-service communication
+- WebSocket streaming
+- Background workers separated from API lifecycle
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=niraj12chaudhary&show_icons=true&locale=en" alt="niraj12chaudhary" /></p>
+### Infrastructure & Tooling
+- Docker & Docker Compose
+- Monorepo architecture (Turborepo + pnpm workspaces)
+- Strict TypeScript (v5)
+- Environment-based config
+- Migration-based database versioning
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=niraj12chaudhary&" alt="niraj12chaudhary" /></p>
+---
+
+# Flagship Projects
+
+---
+
+## 💊 MedShop — Multi-Tenant Medical Shop SaaS
+
+A production-grade B2B SaaS platform built for small medical shops in India.
+
+**Architecture Highlights:**
+
+- Row-level multi-tenancy using `shop_id` isolation across guards, services, and queries  
+- RBAC with OWNER / MANAGER / STAFF roles  
+- Atomic stock deduction using DB transactions  
+- FEFO batch handling (First Expiry First Out)  
+- All money stored in paise (integer-based accounting to avoid float errors)  
+- JWT-based auth with rotating refresh tokens  
+- Redis-backed background processing  
+- Fully containerized local and production setup  
+
+**Tech Stack:**  
+NestJS 10 · PostgreSQL 16 · Redis 7 · BullMQ · Next.js 14 · TypeScript (strict mode)
+
+This project reflects production-oriented thinking: data integrity first, concurrency-safe inventory logic, and maintainable service boundaries.
+
+---
+
+## ⚡ Order Execution Engine — Async Distributed Processing System
+
+A high-performance order execution backend built with Fastify and Redis-based worker architecture.
+
+**Architecture Highlights:**
+
+- Producer–consumer model using BullMQ  
+- Orders queued instantly; workers process independently  
+- API remains responsive under load  
+- Redis Pub/Sub bridges worker and WebSocket server  
+- Real-time order status streaming  
+- Strategy pattern for smart DEX routing  
+- Concurrent price discovery using `Promise.all`  
+- ACID-compliant order state management in PostgreSQL  
+
+**Tech Stack:**  
+Fastify · PostgreSQL · Prisma · Zod · Redis · BullMQ · TypeScript
+
+This system demonstrates async system design, service separation, and real-time event-driven communication.
+
+---
+
+## Engineering Principles
+
+- Design for scale before optimizing prematurely  
+- Transactions protect business logic  
+- Validation happens at system boundaries  
+- Data models determine system quality  
+- Services should fail safely and observably  
+- Asynchronous processing reduces coupling and improves resilience  
+
+---
+
+## Currently Studying
+
+- Advanced system design patterns  
+- Distributed consistency models  
+- Scalable database architecture  
+- High-performance API design  
+
+---
+
+## Contact
+
+- Email: shivamkr7822@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/shivam-kr-chaudhary/  
+
+---
+
+> I am focused on building backend systems that survive real-world usage.
