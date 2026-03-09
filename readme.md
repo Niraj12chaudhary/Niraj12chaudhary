@@ -25,7 +25,7 @@
 
 I design and build backend systems that are **resilient under load**, **safe with data**, and **predictable in failure**.
 
-My work spans multi-tenant SaaS platforms, asynchronous distributed architectures, real-time event systems, and cloud infrastructure on AWS and GCP. I care deeply about correctness, data integrity, and observability — not just shipping features.
+My work spans multi-tenant SaaS platforms, asynchronous distributed architectures, real-time event systems, and cloud infrastructure on AWS and GCP. I care deeply about correctness, data integrity, and observability  not just shipping features.
 
 I think in transactions, queues, and service boundaries. Every system I build is designed to fail safely, scale predictably, emit useful signals when something goes wrong, and be maintainable six months from now by someone who isn't me.
 
