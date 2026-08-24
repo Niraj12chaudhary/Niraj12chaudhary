@@ -209,6 +209,21 @@ An internal AI agent for support/operations staff that answers questions about a
 
 ---
 
+## 🌱 Open Source
+
+**[opencode](https://github.com/anomalyco/opencode)** — AI coding agent, 200k+ GitHub stars.
+
+**Merged**
+- Fixed a dead ecosystem doc link (Daytona plugin reference) in the docs site
+- Fixed a missing language link in the Arabic README
+
+**Submitted**
+- TUI event-stream reconnect after an OS sleep/lock disconnect
+- Diff-view rendering fix for uppercase artifacts
+- RPM package naming fix (packaged as `open-code` instead of `opencode`)
+
+---
+
 ## 📐 Engineering Principles
 
 ```
